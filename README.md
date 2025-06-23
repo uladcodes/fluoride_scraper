@@ -23,3 +23,9 @@ This project helped me dive deep into:
     I have no affiliation with Colgate and no intention of misusing the data.
 
   By the way... I'm still skeptical about fluoride ;) 
+
+How to run:
+1) Install dependencies:
+    pip install -r requirements.txt
+2) Run the script
+   python colgate_final.py
