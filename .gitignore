@@ -4,3 +4,4 @@ __pycache__/
 .idea/
 *.xlsx
 .DS_Store 
+.idea/ 
